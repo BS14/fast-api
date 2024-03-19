@@ -5,4 +5,4 @@ app = FastAPI()
 @app.get("/")
 
 def root():
-    return {"response": "Brave New World!!!"}
+    return {"response": "New World!!!"}
